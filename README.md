@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate **Mobile Developer** with experti
 # Skills
 
 ## Front-End
-<p align="left">
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **Mobile Developer** with experti
 </p>
 
 ## Back-End
-<p align="left">
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
@@ -34,21 +34,21 @@ Welcome to my GitHub profile! I'm a passionate **Mobile Developer** with experti
 </p>
 
 ## Android Dev
-<p align="left">
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
 </p>
 
 ## Database
-<p align="left">
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
 </p>
 
 # Tools
-<p align="left">
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -57,17 +57,19 @@ Welcome to my GitHub profile! I'm a passionate **Mobile Developer** with experti
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/>
 </p>
 
+# Contact
+<p>
+<a href="https://linkedin.com/in/NaoufalSDI"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+<a href="mailto:souadi.naoufl@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" height="40"/></a>
+</p>
+
 # Statistics
 
-[Previous sections remain the same until Statistics]
-Statistics
-<div align="center">
-Nadir's GitHub Stats
-Show Image
-Most Used Languages
-Show Image
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaoufalSDI_USERNAME&theme=transparent&show_icons=true&hide_title=true&hide_rank=true)
 
+# Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaoufalSDI&layout=compact&theme=transparent&hide_title=true)
 
 # Contact
 <p align="left">
