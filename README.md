@@ -52,6 +52,7 @@ Welcome to my GitHub profile! I'm a passionate **Mobile Developer** with experti
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="80" height="80"/>
 </p>
+
 # Contact
 <p>
 <a href="https://linkedin.com/in/NaoufalSDI"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="80" height="80"/></a>
@@ -70,9 +71,4 @@ Welcome to my GitHub profile! I'm a passionate **Mobile Developer** with experti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoufalSDI&layout=compact&bg_color=161616&hide_title=true" alt="Top Languages">
 </div>
 
-# Contact
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="80" height="80"/></a>
-<a href="mailto:your.email@gmail.com"><img src="https://raw.githubusercontent.com/microsoft/vscode-codicons/main/src/icons/mail.svg" width="80" height="80"/></a>
-</p>
 
