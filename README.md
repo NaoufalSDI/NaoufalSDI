@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a passionate **Mobile Developer** with experti
 </p>
 
 # Statistics
-<p backgroundr="#161616">
+<p background="#161616">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaoufalSDI&theme=transparent&show_icons=true&hide_title=true&hide_rank=true)
 </p>
 # Top Languages
