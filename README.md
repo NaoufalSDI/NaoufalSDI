@@ -59,14 +59,14 @@ Welcome to my GitHub profile! I'm a passionate **Mobile Developer** with experti
 
 # Statistics
 
+[Previous sections remain the same until Statistics]
+Statistics
 <div align="center">
-
-## Nadir's GitHub Stats
-- ⭐ Total Stars Earned: 0
-- 🕒 Total Commits (2024): 97
-- 🔄 Total PRs: 0
-- ❗ Total Issues: 0
-- 📊 Contributed to (last year): 0
+Nadir's GitHub Stats
+Show Image
+Most Used Languages
+Show Image
+</div>
 
 
 # Contact
