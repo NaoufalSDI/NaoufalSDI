@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a passionate **Mobile Developer** with experti
 
 # Contact
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://www.linkedin.com/in/naoufl-souadi-a4043b338/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="80" height="80" />
     </a>
