@@ -55,12 +55,12 @@ Welcome to my GitHub profile! I'm a passionate **Mobile Developer** with experti
 
 # Contact
 
-<a href="https://www.linkedin.com/in/naoufl-souadi-a4043b338/" target="_blank">
+<p align="center">
+<a href="https://www.linkedin.com/in/naoufl-souadi-a4043b338/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="80" height="80" />
 </a>
-
 <a href="mailto:souadi.naoufl@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="80" height="80"/></a>
-
+</p>
 
 # Statistics
 
