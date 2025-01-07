@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm a passionate **Mobile Developer** with experti
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="80" height="80"/>
 </p>
 
-##<p align="center"> Front-End</p>
 <p align="center">
+    ##Front-End
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="80" style="margin: 0 15px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="80" height="80" style="margin: 0 15px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="80" height="80" style="margin: 0 15px;"/>
