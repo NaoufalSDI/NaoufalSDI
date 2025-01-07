@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate **Mobile Developer** with experti
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="80" height="80"/>
 </p>
 
-# Tools
+## Tools
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="80" height="80"/>
